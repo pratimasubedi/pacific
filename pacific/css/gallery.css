@@ -1,0 +1,28 @@
+
+/*gallery section*/
+
+
+
+.gallery-intro h3{
+	text-align: center;
+	text-transform: uppercase;
+	color: #db232b;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+
+
+
+
+.gallery-image{
+	height: 200px;
+	overflow: hidden;
+	padding: 10px 10px;
+	margin-bottom: 30px;
+}
+.gallery-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}

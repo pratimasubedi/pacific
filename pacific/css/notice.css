@@ -1,0 +1,65 @@
+
+/*notice section*/
+.notice-title h4{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0087fd;
+	padding: 10px;
+	color: #fff;
+	font-size: 16px;
+}
+.notice-title h4>i{
+	margin-right: 5px;
+}
+.notice-date h6{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0087fd;
+	color: #fff;
+	padding: 10px;
+	border-radius: 50px;
+}
+.notice-body h4{
+	font-weight: 700;
+	text-transform: capitalize;
+}
+.notice-body p{
+	text-align: justify;
+	font-size: 13px;
+}
+.home-notice-btn{
+	text-align: center;
+}
+
+
+/*  upcoming events*/
+.upcoming-title h4{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0187fd;
+	color: #fff;
+	padding: 10px;
+	font-size: 16px;
+}
+.upcoming-title h4>i{
+	margin-right: 5px;
+}
+.upcoming-date h6{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0187fd;
+	color: #fff;
+	padding: 10px;
+	border-radius: 50px}
+}
+.upcoming-body h4{
+	font-weight: 700;
+	text-transform: capitalize;
+}
+.upcoming-body p{
+	text-align: justify;
+	font-size: 13px;
+}
+.upcoming-btn{
+	text-align: center;
+}

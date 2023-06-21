@@ -1,0 +1,22 @@
+
+/*career section*/
+
+.career-vacancy h3{
+	text-align: center;
+	text-transform: uppercase;
+	color: #db232b;
+	padding: 50px 50px 50px 50px;
+}
+
+.career-grade h6{
+	text-align: center;
+	color: #fff;
+	background-color: #0087fd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.career-grade p{
+	text-align: justify;
+	padding-bottom: 250px;
+}

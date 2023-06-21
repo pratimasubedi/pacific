@@ -1,0 +1,20 @@
+
+
+.form-group{
+	margin-right: 10px;
+}
+
+.contacts-mails-section h2{
+	text-align:center;
+	padding-top: 20px;
+}
+.contacts-mails-section p{
+	text-align:center;
+}
+
+
+.contacts-mails-section p>a>i{
+	padding-right: 10px;
+	text-align: center;
+	color: #1a1aff;
+}

@@ -1,0 +1,41 @@
+
+ /*blog section*/
+
+
+
+.blog-pacific h1{
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.blog-pad{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.blog-image{
+	height: 275px;
+	overflow: hidden;
+	text-align: center;
+
+}
+.blog-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	padding-left: 50px;
+}
+
+.blog-detail h5{
+	text-align: left;
+}
+.blog-detai p{
+	text-align: justify;
+}
+.btn-blog {
+	background-color: #ddd;
+	color: #337ab7;
+}

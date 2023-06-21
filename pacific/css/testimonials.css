@@ -1,0 +1,27 @@
+
+
+/*testimoni*/
+
+
+
+.testimonials-header {
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+
+}
+
+.testimonials-header-text h5{
+	text-align:justify;
+	border-width: 100px;
+	margin-top: 20px;
+	padding-left:100px;
+	border-left: 5px solid #eee;
+}
+
+.testimonials-header-text p{
+	text-align:center;
+	border-width: 100px;
+	margin-top: 20px;
+	padding-left:100px;
+}

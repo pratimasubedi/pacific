@@ -1,0 +1,15 @@
+
+/*home-footer*/
+.footer-text h4{
+	text-align:center;
+	padding-top: 20px;
+}
+.footer-text p{
+	text-align:justify;
+	font-size: 14px;
+}
+
+
+.footer-text p>i{
+	padding-right: 10px;
+}

@@ -1,0 +1,217 @@
+.home-carousel-bg{
+	height: 400px;
+	overflow: hidden;
+}
+.home-carousel-image{
+	height: 400px;
+	overflow: hidden;
+	display: flex;
+}
+.home-carousel-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+
+
+/*home notice section*/
+.notice-title h4{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0087fd;
+	padding: 10px;
+	color: #fff;
+	font-size: 16px;
+}
+.notice-title h4>i{
+	margin-right: 5px;
+}
+.notice-date h6{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0087fd;
+	color: #fff;
+	padding: 10px;
+	border-radius: 50px;
+}
+.notice-body h4{
+	font-weight: 700;
+	text-transform: capitalize;
+}
+.notice-body p{
+	text-align: justify;
+	font-size: 13px;
+}
+.home-notice-btn{
+	text-align: center;
+}
+
+
+/* home upcoming events*/
+.upcoming-title h4{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0187fd;
+	color: #fff;
+	padding: 10px;
+	font-size: 16px;
+}
+.upcoming-title h4>i{
+	margin-right: 5px;
+}
+.upcoming-date h6{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0187fd;
+	color: #fff;
+	padding: 10px;
+	border-radius: 50px}
+}
+.upcoming-body h4{
+	font-weight: 700;
+	text-transform: capitalize;
+}
+.upcoming-body p{
+	text-align: justify;
+	font-size: 13px;
+}
+.upcoming-btn{
+	text-align: center;
+}
+
+
+/* home todays thought section*/
+
+.thought-section{
+	text-align: center;
+	background:#ff0000;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	
+
+}
+.thought-section p{
+	text-align: center;
+	color: #fff;
+}
+
+
+.thought-section h6{
+	text-align: center;
+	color: #fff;
+}
+
+
+
+/* home students views*/
+.head-students-views h4{
+	text-align: center;
+	color: #ff0000;
+	padding-top:50px;
+	padding-bottom: 50px;
+}
+.home-students-views-img{
+	height: 150px;
+	overflow:hidden;
+	text-align: center;
+} 
+.home-students-views-img img{
+	height: 100%;
+	width:59%;
+	object-fit: cover;
+}
+
+
+.caption h2{
+	text-align: center;
+}
+.caption-btn{
+	text-align: center;
+}
+
+
+/*home-message from school management*/
+.home-message{
+	background-color: #eeeeee;
+}
+
+.home-message1 h4{
+	text-align: center;
+	text-transform: uppercase;
+	color: #db232b;
+}
+
+.home-message-image1{
+	height: 100px;
+	width: 100px;
+	overflow: hidden;
+	text-align: center;
+	border-radius: 100px;
+	margin: 20px;
+}
+.home-message-image1 img{
+	height: 100%;
+	width: 100%;
+	object-fit:cover;
+}
+
+.home-message2 h5{
+	text-align: center;
+	text-transform: uppercase;
+	color: #db232b;
+}
+.home-message p{
+	text-align: justify;
+	font-size: 15px;
+}
+.home-upcoming-btn{
+	text-align: center;
+}
+
+
+/* home image*/
+.home-gallery{
+	height: 300px;
+	overflow: hidden;
+    padding-top:50px;
+    padding-bottom: 50px;
+    
+   
+}
+.home-gallery img{
+	height: 100%;
+	width: 100%;
+	object-fit:cover;
+}
+
+.home-gallery-button a{
+	text-align: center;
+    text-decoration-line: none;
+     background-color:#1a1aff;
+     padding: 10px;
+     color: #fff;
+ }
+ .home-gallery-button{
+     text-align: center;
+ }
+
+
+
+/* home admission procedure*/
+
+.home-admission{
+	background-color: #ffc000;
+}
+.home-admission h5{
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	margin-bottom: 0;
+	padding-top: 10px;
+}
+
+.home-admission-btn{
+	text-align: center;
+}
